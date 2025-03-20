@@ -41,10 +41,12 @@ This project aims to analyze social media posts from Twitter/X and Reddit to det
 
 
  **Generate Heatmaps**:
- [Heatmap](vis/final_heatmap.html)
+  [Heatmap](vis/final_heatmap.html)
+ ![Heatmap](vis/heatmap.png)
 
  
  **Generate Choropleth**:
- [Choroplath](vis/final_choropleth.html)
+  [Choroplath](vis/final_choropleth.html)
+ ![Choroplath](vis/choropleth.png)
 
 
